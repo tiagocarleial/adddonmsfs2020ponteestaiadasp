@@ -1,6 +1,6 @@
 # adddonmsfs2020ponteestaiadasp
 
-##### Addon scenery 3D Mesh using Blender of stadium Castelao in Fortaleza, Brazil
+##### Addon scenery 3D Mesh using Blender of Estaiada Bridge located in São Paulo, Brazil
 
 
 + Installation:
@@ -21,4 +21,4 @@ alt="Donate" width="200" height="130" border="10" /></a>
 <a href="https://youtu.be/aVIwzAw1NPg" target="_blank"></a>
 
 ##### Youtube Video
-[![youtube](https://img.youtube.com/vi/aVIwzAw1NPg/0.jpg)](https://www.youtube.com/watch?v=aVIwzAw1NPg)
+[![youtube](https://img.youtube.com/vi/TuFo1fSRc1w/0.jpg)](https://www.youtube.com/watch?v=TuFo1fSRc1w)
